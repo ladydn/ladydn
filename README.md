@@ -2,7 +2,7 @@
 
 :computer: **Desarrolladora de software**
 :pencil: **Generadora de de contenido**
-:oncomming_automobile: **Amante de la musica indie-electronico, EDM melodico y onirico, Electro house downtempo y alternative tropical house**
+:music: **Amante de la musica indie-electronico, EDM melodico y onirico, Electro house downtempo y alternative tropical house**
 
 ### Vias de contacto
 
