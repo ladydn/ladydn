@@ -2,7 +2,8 @@
 
 :computer: **Desarrolladora de software**
 :pencil: **Generadora de de contenido**
-:music: **Amante de la musica indie-electronico, EDM melodico y onirico, Electro house downtempo y alternative tropical house**
+:musical_keyboard: **Amante de la musica indie-electronico, EDM melodico y onirico, Electro house downtempo y alternative tropical house**
+:chart_with_downwards_trend: **Con un gran dominio en el analisis de base de datos**
 
 ### Vias de contacto
 
