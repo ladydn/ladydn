@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-:computer: **Desarrolladora de software**
-:pencil: **Generadora de de contenido**
-:musical_keyboard: **Amante de la musica indie-electronico, EDM melodico y onirico, Electro house downtempo y alternative tropical house**
-:chart_with_downwards_trend: **Con un gran dominio en el analisis de base de datos**
+1. :computer: **Desarrolladora de software**
+1. :musical_keyboard: **Amante de la musica indie-electronico, EDM melodico y onirico, Electro house downtempo y alternative tropical house**
+1. :chart_with_downwards_trend: **Con un gran dominio en el analisis de base de datos**
 
 ### Vias de contacto
 
